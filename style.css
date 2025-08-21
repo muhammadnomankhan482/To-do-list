@@ -39,6 +39,23 @@ input::placeholder{
     border: none;
     border-radius: 10px;
     cursor: pointer;
+    color: white;
+}
+
+#add-button{
+    background-color: rgb(45, 151, 45);
+}
+
+#update-button{
+    background-color: orange;
+}
+
+#edit-button{
+    background-color: dodgerblue;
+}
+
+#delete-button{
+    background-color: crimson;
 }
 
 li{
